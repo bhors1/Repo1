@@ -1,0 +1,11 @@
+ Volume in drive D is Data
+ Volume Serial Number is 5ECC-6D13
+
+ Directory of D:\GIT\First_Project
+
+02-11-2020  18:55    <DIR>          .
+02-11-2020  18:55    <DIR>          ..
+02-11-2020  18:54    <DIR>          .git
+02-11-2020  18:55                 0 a.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  366,454,124,544 bytes free
